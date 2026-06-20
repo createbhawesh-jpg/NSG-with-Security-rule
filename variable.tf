@@ -1,0 +1,11 @@
+variable "nimbu" {}
+variable "vnet" {}
+variable "vnet3" {}
+variable "sb" {}
+variable "sb3" {}
+variable "nsg" {}
+variable "nsgasso" {}
+variable "nsg1" {}
+variable "nsgasso2" {}
+variable "nsgrule" {}
+variable "nsgrule1" {}
